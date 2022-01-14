@@ -1,5 +1,8 @@
-import pywhatkit
-pywhatkit.start_server()
+import pywhatkit as wa
+from pywhatkit.remotekit import start_server
 
 
-pywhatkit.sendwhatmsg("+6282368632443", "hey, enjel", 20, 30)
+wa.sendwhatmsg("+6282368632443", "hey enejell", 11, 9)
+
+
+
